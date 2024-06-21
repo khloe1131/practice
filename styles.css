@@ -1,1 +1,21 @@
-
+div {
+  width: 400px;
+  height: 400px;
+  background-color: pink;
+  /*top,right, bottom, left*/
+  padding: 10px 10px 10px 10px;
+  /* top/bottom, right left*/
+  padding: 10px 10px 10px;
+  /* top/bottom, right left*/
+  padding: 10px 10px;
+    /* all sides are the same */
+    padding: 10px;
+}
+.gold {
+  width: 50px;
+  background-color: pink;
+}
+.purple{
+  width 50px;
+  background-color: lavender;
+}
